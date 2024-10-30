@@ -1,0 +1,8 @@
+
+.payment_method_juno-credit-card fieldset {border:0px !important;}
+.payment_method_juno-bank-slip {padding:0px !important;margin:0px !important;}
+.payment_method_juno-bank-slip fieldset {display:none !important;}
+.payment_method_juno-bank-slip .payment_box {display:none !important;}
+.payment_method_juno-pix {padding:0px !important;margin:0px !important;}
+.payment_method_juno-pix fieldset {display:none !important;}
+.payment_method_juno-pix .payment_box {display:none !important;}
